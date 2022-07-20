@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Summer Lab Project</string>
+    <string name="team1">TeamB</string>
+    <string name="team2">"Team A "</string>
+    <string name="team_name">Type your Team name</string>
+    <string name="scoreTeamA">score</string>
+    <string name="scoreTeamB">score</string>
+    <string name="three_point">+3 POINTS</string>
+    <string name="two_point">+2 POINTS</string>
+    <string name="free_throw">FREE THROW</string>
+    <string name="reset_button">RESET</string>
+    <string name="name_team">Select</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="timer_button">Start Timer</string>
+    <string name="pause_button">Pause</string>
+    <string name="timer_stopped">Stop Timer</string>
+    <string name="resume_button">Resume</string>
+</resources>
